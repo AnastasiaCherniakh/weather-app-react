@@ -20,7 +20,7 @@ export default function App() {
           rel="noreferrer"
           className="code-link"
         >
-          Open-source code
+          Open-source code {" "}
         </a>
         by Anastasia Cherniakh
       </p>
