@@ -15,7 +15,7 @@ export default function App() {
       </div>
       <p className="code-text">
         <a
-          href="https://github.com/AnastasiaCherniakh/weather-app"
+          href="https://github.com/AnastasiaCherniakh/weather-app-react"
           target="_blank"
           rel="noreferrer"
           className="code-link"
